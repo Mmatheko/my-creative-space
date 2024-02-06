@@ -1,0 +1,46 @@
+.title{text-align: center;
+    padding: 10px 0;
+   color: #1A64D6;
+   font-family: Helvetica;
+   font-size: 34px;
+   line-height: 48px;
+   margin: 0}
+   .temperature{text-align: center;
+    font-family: Helvetica;
+    font-size: 34px;
+    line-height: 48px;
+    font-weight: 400;}
+   h1 {text-align: center;
+    }
+    h2{text-align: center;
+    color: #1A64D6;
+}
+    button {background-color:#1A64D6;
+    color:white;
+    border-radius: 30px;
+    display: block;
+    margin: auto;
+    border: 1px solid white
+    margin: 20px auto;
+    cursor: pointer;
+    line-height: 15px;}
+    button:hover{
+    color:#1A64D6;
+    border: 1px solid #1A64D6;
+    transition: all 200ms ease;
+    background-color:white;
+    font-size: 16px;
+    }
+    li{list-style: none;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px 0px;
+    font-family: Helvetica;
+    border-radius: 15px;
+    max-width: 300px;}
+    li:hover{background-color: #FFFBEF;
+    transition: all 200ms ease-in-out
+    max-width: 400px;
+    }
+    p{text-align: center;
+    font-family: 'Courier New';}
